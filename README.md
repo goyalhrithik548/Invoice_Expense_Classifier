@@ -65,6 +65,8 @@ NextBill/
 ├── venv/
 │
 │── screenshots/
+│   ├── prediction-example.png
+│   └── swagger-ui.png
 │
 ├── main.py
 ├── train.py
