@@ -378,7 +378,8 @@ from Logistic Regression.
 
 ## Swagger UI
 
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95cc7f62-b0a9-4431-993f-dece3407cd98" />
+> <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c01c362b-340f-4d26-be53-148115a1f676" />
+
 
 
 ```md
@@ -389,7 +390,8 @@ from Logistic Regression.
 
 ## API Prediction Example
 
-> Add prediction response screenshot here
+> <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/659103c0-12eb-41ea-8a73-c4c0e6b46797" />
+
 
 ```md
 ![Prediction Example](screenshots/prediction-example.png)
@@ -397,13 +399,6 @@ from Logistic Regression.
 
 ---
 
-## Project Structure Screenshot
-
-> Add folder structure screenshot here
-
-```md
-![Project Structure](screenshots/project-structure.png)
-```
 
 ---
 
