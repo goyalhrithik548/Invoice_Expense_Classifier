@@ -69,7 +69,6 @@ NextBill/
 ├── Dockerfile
 ├── README.md
 ├── .gitignore
-└── Small ML Assessment Task.docx
 ```
 
 ---
