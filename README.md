@@ -61,7 +61,10 @@ NextBill/
 │
 ├── .pytest_cache/
 ├── __pycache__/
+│
 ├── venv/
+│
+│── screenshots/
 │
 ├── main.py
 ├── train.py
