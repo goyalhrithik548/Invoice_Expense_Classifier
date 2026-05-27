@@ -378,7 +378,8 @@ from Logistic Regression.
 
 ## Swagger UI
 
-> Add Swagger UI screenshot here
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95cc7f62-b0a9-4431-993f-dece3407cd98" />
+
 
 ```md
 ![Swagger UI](screenshots/swagger-ui.png)
