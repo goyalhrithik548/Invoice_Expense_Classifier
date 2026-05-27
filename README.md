@@ -360,7 +360,7 @@ Example:
 ```json
 {
   "category": "Travel",
-  "confidence": 0.9472
+  "confidence": 0.7472
 }
 ```
 
